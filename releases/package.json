@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "packages": {
     "mac64": {
-      "url": "http://alestsurko/tonight/releases/tonight-macos-x64.zip",
+      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.1.1/tonight-macos-x64.zip",
       "size": "196481766"
     }
   }
