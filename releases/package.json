@@ -1,10 +1,10 @@
 {
   "name": "Tonight",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": {
     "mac64": {
       "url": "http://alestsurko/tonight/releases/tonight-macos-x64.zip",
-      "size": 102680557
+      "size": "196481766"
     }
   }
 }
