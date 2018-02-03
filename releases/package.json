@@ -1,18 +1,18 @@
 {
   "name": "Tonight",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "packages": {
     "mac64": {
-      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.0/tonight-macos-x64.zip",
-      "size": 74998518
+      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.1/tonight-macos.zip",
+      "size": 74998560
     },
     "win32": {
-      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.0/tonight-win-x32.zip",
-      "size": 65286756
+      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.1/tonight-win-x32.zip",
+      "size": 65286840
     },
     "win64": {
-      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.0/tonight-win-x64.zip",
-      "size": 68600797
+      "url": "https://github.com/AlesTsurko/tonight/releases/download/v0.2.1/tonight-win-x64.zip",
+      "size": 68600872
     }
   }
 }
